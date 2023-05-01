@@ -109,7 +109,6 @@ for index, row in top_movies[last_index:].iterrows():
 
 
 
-
 # import imdb
 
 # # Create an IMDb access object
